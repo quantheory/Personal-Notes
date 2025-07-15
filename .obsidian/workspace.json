@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2085bbc729ef2656",
+        "id": "2dcf9298c1127caf",
         "type": "tabs",
         "children": [
           {
-            "id": "76a77ebaad28f400",
+            "id": "071b0a6040fe56d4",
             "type": "leaf",
             "state": {
-              "type": "orgmode",
-              "state": {
-                "file": "TODO.org"
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4fd77bf87ca72665",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "125b761d9a33747e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -183,10 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76a77ebaad28f400",
+  "active": "071b0a6040fe56d4",
   "lastOpenFiles": [
-    "TODO.md",
+    "#TODO.org#",
     "TODO.org",
+    "TODO.org~",
+    "TODO.md",
     "2025-07-15.md",
     "Welcome.md"
   ]
