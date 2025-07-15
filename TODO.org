@@ -1,6 +1,48 @@
+#+TODO: TODO WAITING | DONE CANCELED
+
 * PAESCAL
+
+** Microphysics
+
+** Surface Coupling
 
 * DREAM2
 
 * Miscellaneous
+
+** TODO Better email filters
+
+** TODO Overleaf license update.
+DEADLINE: <2025-07-25 Fri>
+
+** TODO Annual training.
+DEADLINE: <2025-08-01 Fri>
+
+** TODO AGU submission.
+DEADLINE: <2025-07-25 Fri>
+
+** TODO AMS submission.
+DEADLINE: <2025-08-14 Thu>
+
+** TODO Review Chen et. al. (2025) for GMD.
+DEADLINE: <2025-08-05 Tue>
+
+** TODO Letter of Collaboration for CS2 2025 proposal.
+DEADLINE: <2025-07-18 Fri>
+
+** TODO ATR for E3SM meeting 2025.
+DEADLINE: <2025-07-18 Fri>
+
+** TODO Check abstract for SIAM GS25.
+DEADLINE: <2025-08-05 Tue>
+
+** TODO ATR for SIAM GS25 (Baton Rouge).
+DEADLINE: <2025-07-25 Fri>
+
+** WAITING ATR for SciDAC-5
+
+** TODO Look at EAMxx diagnostics capabilities mentioned by Naser.
+DEADLINE: <2025-07-17 Thu>
+
+[[https://github.com/E3SM-Project/E3SM/pull/7508]]
 
