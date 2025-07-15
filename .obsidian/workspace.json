@@ -11,11 +11,9 @@
             "id": "76a77ebaad28f400",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "orgmode",
               "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false
+                "file": "TODO.org"
               },
               "icon": "lucide-file",
               "title": "TODO"
@@ -188,6 +186,7 @@
   "active": "76a77ebaad28f400",
   "lastOpenFiles": [
     "TODO.md",
+    "TODO.org",
     "2025-07-15.md",
     "Welcome.md"
   ]
