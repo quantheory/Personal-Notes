@@ -32,9 +32,17 @@
 
 ***** TODO Add any details about motivation/budgets/fluxes.
 
-***** BLOCKED Put through IR
+***** BLOCKED Put through IR.
 
-**** DRAFTING R
+***** BLOCKED Make code tag.
+
+***** BLOCKED Submit paper.
+
+**** DRAFTING SPAECIES v1 paper
+
+***** TODO Basic description.
+
+***** BLOCKED Make tag.
 
 ** Surface Coupling
 
@@ -112,3 +120,6 @@ DEADLINE: <2025-07-17 Thu>
 
 [[https://github.com/E3SM-Project/E3SM/pull/7508]]
 
+** TODO Go through email backlog.
+
+** TODO Make paper reading list.
