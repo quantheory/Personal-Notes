@@ -1,5 +1,5 @@
 #+STARTUP: indent
-#+TODO: TODO WAITING BLOCKED | WISHLIST DONE
+#+TODO: TODO WAITING BLOCKED WISHLIST | DONE
 #+TODO: DRAFTING REVIEW_RESPONSE | SUBMITTED PUBLISHED
 #+TODO: | CANCELLED
 
@@ -77,6 +77,12 @@ Possibly also coupled model working group.
 
 *** TODO Finish enough of C++ version for comparison to Fortran.
 
+*** TODO Condensation/evaporation.
+
+*** TODO Add other kernel (e.g. from WRF).
+
+*** TODO Comparison to TAU.
+
 *** TODO Basic aerosol interactions.
 
 *** TODO Inference part.
@@ -98,6 +104,8 @@ Possibly also coupled model working group.
 *** TODO Aerosol interaction part.
 
 *** TODO Inference part.
+
+*** WISHLIST "Replication engine"-type work.
 
 *** BLOCKED Put through IR.
 
