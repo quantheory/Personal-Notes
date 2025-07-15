@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2dcf9298c1127caf",
+        "id": "7349120601d3b6db",
         "type": "tabs",
         "children": [
           {
-            "id": "071b0a6040fe56d4",
+            "id": "7c7d124a7b7e3737",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,10 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "071b0a6040fe56d4",
+  "active": "7c7d124a7b7e3737",
   "lastOpenFiles": [
-    "#TODO.org#",
     "TODO.org",
+    "#TODO.org#",
     "TODO.org~",
     "TODO.md",
     "2025-07-15.md",

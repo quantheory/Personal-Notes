@@ -1,12 +1,60 @@
-#+TODO: TODO WAITING | DONE CANCELED
+#+TODO: TODO WAITING BLOCKED | WISHLIST DONE
+#+TODO: DRAFTING REVIEW_RESPONSE | SUBMITTED PUBLISHED
+#+TODO: | CANCELLED
 
 * PAESCAL
 
 ** Microphysics
 
+*** SPAECIES Development
+
+**** TODO Surface flux output
+
+**** TODO Mass budget outputs
+
+**** TODO Break up derived variable class
+
+**** TODO Smart calculation of values
+
+**** TODO Finish unit tests
+
+**** TODO Generalize arrays enough for Kokkos
+
+**** TODO EAMxx port
+
+*** Papers
+
+**** DRAFTING Rainshaft Paper
+
+***** TODO Go through whole text.
+
+***** TODO Make sure fixed-point vs. Newton stuff makes sense.
+
+***** TODO Add any details about motivation/budgets/fluxes.
+
+***** BLOCKED Put through IR
+
 ** Surface Coupling
 
 * DREAM2
+
+** TODO Sync up with Andrew Gettelman.
+
+** JEFE Development
+
+*** TODO Finish higher-order commit.
+
+*** TODO Finish multi-moment.
+
+*** TODO Finish enough of C++ version for comparison to Fortran.
+
+*** TODO Review/improve Shixuan tag.
+
+*** WISHLIST Get JEFE working with SPAECIES.
+
+** DRAFTING JEFE Paper
+
+*** TODO 
 
 * Miscellaneous
 
