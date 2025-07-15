@@ -34,6 +34,8 @@
 
 ***** BLOCKED Put through IR
 
+**** DRAFTING R
+
 ** Surface Coupling
 
 * DREAM2
@@ -48,13 +50,29 @@
 
 *** TODO Finish enough of C++ version for comparison to Fortran.
 
+*** TODO Basic aerosol interactions.
+
+*** TODO Inference part.
+
 *** TODO Review/improve Shixuan tag.
 
 *** WISHLIST Get JEFE working with SPAECIES.
 
-** DRAFTING JEFE Paper
+** DRAFTING JEFE Papers
 
-*** TODO 
+*** TODO Finish description of reconstruction algorithms.
+
+*** TODO Decide on paper split.
+
+*** TODO Multi-moment.
+
+*** TODO Make graphs.
+
+*** TODO Aerosol interaction part.
+
+*** TODO Inference part.
+
+*** BLOCKED Put through IR.
 
 * Miscellaneous
 
