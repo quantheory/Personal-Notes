@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "TODO"
             }
           }
         ]
@@ -176,6 +176,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -186,6 +187,8 @@
   },
   "active": "76a77ebaad28f400",
   "lastOpenFiles": [
+    "TODO.md",
+    "2025-07-15.md",
     "Welcome.md"
   ]
 }
