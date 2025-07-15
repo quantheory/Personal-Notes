@@ -1,6 +1,6 @@
 #+STARTUP: indent
 #+TODO: TODO WAITING BLOCKED WISHLIST | DONE
-#+TODO: DRAFTING REVIEW_RESPONSE WAITING_COAUTHOR | SUBMITTED PUBLISHED
+#+TODO: DRAFTING REVIEW_RESPONSE | WAITING_COAUTHOR SUBMITTED PUBLISHED
 #+TODO: | CANCELLED
 
 * PAESCAL
@@ -25,7 +25,7 @@
 
 *** Papers
 
-**** DRAFTING Rainshaft Paper
+**** DRAFTING Rainshaft Paper [0/6]
 
 ***** TODO Go through whole text.
 
@@ -39,11 +39,15 @@
 
 ***** BLOCKED Submit paper.
 
-**** DRAFTING SPAECIES v1 paper
+**** DRAFTING SPAECIES v1 paper [0/4]
 
 ***** TODO Basic description.
 
+***** TODO Speak to legal about code license.
+
 ***** BLOCKED Make tag.
+
+***** BLOCKED Submit paper.
 
 ** Surface Coupling
 
@@ -66,7 +70,29 @@ Explicit surface flux application seems to unstable, probably have to resort to 
 
 *** Papers
 
-**** DRAFTING Main 
+**** DRAFTING Theoretical model [0/5]
+
+***** TODO Finish spatially-continuous work.
+
+***** TODO Write up simplified model numerical results.
+
+***** TODO Spatially discretized version?
+
+***** BLOCKED Submit IR.
+
+***** TODO Speak to legal about code license.
+
+***** BLOCKED Submit paper.
+
+**** DRAFTING E3SM results [0/3]
+
+***** TODO Finish E3SM runs.
+
+***** TODO Writing.
+
+***** BLOCKED Submit IR.
+
+***** BLOCKED Submit paper.
 
 * DREAM2
 
@@ -94,7 +120,7 @@ Explicit surface flux application seems to unstable, probably have to resort to 
 
 *** WISHLIST Get JEFE working with SPAECIES.
 
-** DRAFTING JEFE Papers
+** DRAFTING JEFE Papers [0/8]
 
 *** TODO Finish description of reconstruction algorithms.
 
@@ -111,6 +137,14 @@ Explicit surface flux application seems to unstable, probably have to resort to 
 *** WISHLIST "Replication engine"-type work.
 
 *** BLOCKED Put through IR.
+
+*** BLOCKED Submit paper.
+
+* BOSS
+
+** WAITING_COAUTHOR CloudBOSS part 1
+
+** WAITING_COAUTHOR CloudBOSS part 2
 
 * Miscellaneous
 
