@@ -1,6 +1,6 @@
 #+STARTUP: indent
 #+TODO: TODO WAITING BLOCKED WISHLIST | DONE
-#+TODO: DRAFTING REVIEW_RESPONSE | SUBMITTED PUBLISHED
+#+TODO: DRAFTING REVIEW_RESPONSE WAITING_COAUTHOR | SUBMITTED PUBLISHED
 #+TODO: | CANCELLED
 
 * PAESCAL
@@ -61,9 +61,12 @@ Possibly also coupled model working group.
 
 **** TODO Finish alternate implicit method for Fortran or EAMxx code.
 
-**** TODO Momentum conservation?
+**** TODO Momentum conservation
+Explicit surface flux application seems to unstable, probably have to resort to fixers to push residual into surface component.
 
 *** Papers
+
+**** DRAFTING Main 
 
 * DREAM2
 
