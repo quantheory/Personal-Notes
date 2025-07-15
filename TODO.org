@@ -1,3 +1,4 @@
+#+STARTUP: indent
 #+TODO: TODO WAITING BLOCKED | WISHLIST DONE
 #+TODO: DRAFTING REVIEW_RESPONSE | SUBMITTED PUBLISHED
 #+TODO: | CANCELLED
@@ -45,6 +46,24 @@
 ***** BLOCKED Make tag.
 
 ** Surface Coupling
+
+*** Communication
+
+**** TODO Speak with Andrew Roberts about momentum non-conservation.
+
+Possibly also coupled model working group.
+
+*** Code changes
+
+**** TODO Implement gustiness for EAMxx.
+
+**** TODO Implement implicit method for EAMxx.
+
+**** TODO Finish alternate implicit method for Fortran or EAMxx code.
+
+**** TODO Momentum conservation?
+
+*** Papers
 
 * DREAM2
 
